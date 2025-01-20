@@ -3,9 +3,8 @@
 **Integrantes:**
 
     - Glauber
-    -
-    -
-    -
+    - Bárbara Azevedo
+    - Danny Marques
 
 
 ------------------------------
